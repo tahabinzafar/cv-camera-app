@@ -4,7 +4,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-5C3EE8?logo=opencv&logoColor=white)
 ![Ultralytics YOLO](https://img.shields.io/badge/YOLO-Ultralytics-0B23A9)
 ![Last commit](https://img.shields.io/github/last-commit/tahabinzafar/cv-camera-app)
-![Repo size](https://img.shields.io/github/repo-size/tahabinzafar/cv-camera-app)
+![Code size](https://img.shields.io/github/languages/code-size/tahabinzafar/cv-camera-app)
 
 Two modes:
 
