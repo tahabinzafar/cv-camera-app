@@ -1,0 +1,20 @@
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# model weights (downloaded at runtime)
+*.pt
+
+# saved output
+snapshots/
+*.jpg
+*.png
+*.mp4
+
+# os / editor
+.DS_Store
+.idea/
+.vscode/
