@@ -6,6 +6,8 @@
 ![Last commit](https://img.shields.io/github/last-commit/tahabinzafar/cv-camera-app)
 ![Code size](https://img.shields.io/github/languages/code-size/tahabinzafar/cv-camera-app)
 
+![Real-time object detection using YOLO](https://imerit.ai/wp-content/uploads/2023/04/Feature_Real-Time-Object-Detection-Using-YOLO.jpg)
+
 Two modes:
 
 - **motion** spots movement. No model, no download, starts instantly. Good for a quick "is anything moving in my room" demo.
